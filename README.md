@@ -1,4 +1,4 @@
-<h2 align="left">Hi There👋! I am a junior backend dev (node.js)  </h2>
+<h2 align="left">Hi There👋! I am a backend dev (node.js)  </h2>
 
 ###
 
