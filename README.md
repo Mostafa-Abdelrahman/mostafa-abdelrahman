@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I’m a dedicated Software Engineer with a strong focus on building scalable backend systems in Go and crafting modern frontends with Vue.js. I love solving real-world problems by combining solid engineering practices with intuitive user experiences.
+Hi there! 👋<br>I’m a dedicated Software Engineer with a strong focus on building scalable backend systems in solving problems by combining solid engineering practices with intuitive user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafa-abdelrahman-24bb30232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafaabdelra7man@gmail.com) 
